@@ -13,7 +13,8 @@
   "files": [
     "Archer.js",
     "Archer.d.ts",
-    "Archer.js.map"
+    "Archer.js.map",
+    "Archer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
